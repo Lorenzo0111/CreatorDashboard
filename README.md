@@ -25,6 +25,31 @@ Creator Dashboard is one place to watch and run your plugins across Modrinth, Ha
 
 > ⚠️ It is built for a single owner. The first account created owns the install and sign-up closes after that.
 
+## Screenshots
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="media/screenshots/overview-dark.png" />
+  <img src="media/screenshots/overview-light.png" alt="Overview with total downloads, servers, players and where each plugin stands" />
+</picture>
+
+</div>
+
+| Plugin stats | New release |
+| ------------ | ----------- |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="media/screenshots/plugin-dark.png" /><img src="media/screenshots/plugin-light.png" alt="Per-marketplace stats for a plugin" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="media/screenshots/release-new-dark.png" /><img src="media/screenshots/release-new-light.png" alt="Form for publishing a release to every marketplace" /></picture> |
+
+<details>
+<summary>Integrations</summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="media/screenshots/integrations-dark.png" />
+  <img src="media/screenshots/integrations-light.png" alt="Integrations page with marketplace capabilities and API keys" />
+</picture>
+
+</details>
+
 ## Marketplaces
 
 | Marketplace | Stats                           | Publish a release                              | Edit the listing         |
